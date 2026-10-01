@@ -46,3 +46,7 @@ benchmarks/gauntlet/results/
 benchmarks/truthbench/results/latest.json
 benchmarks/truthbench/results/latest.md
 benchmarks/truthbench/results/failures/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
